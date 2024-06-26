@@ -7,7 +7,7 @@ pre : " <b> 2.1 </b> "
 ---
 ## Create VPC
 
-![img.png](sovicolab/images/2/2.1/2.1.1.png)
+![img.png](sovicolab/images/2/2.1/image.png)
 
 Every thing is done!\
 **Congratulations, your VPC is now built**
