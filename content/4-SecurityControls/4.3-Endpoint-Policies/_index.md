@@ -5,12 +5,10 @@ weight : 3
 chapter : false
 pre : " <b> 4.3 </b> "
 ---
-![img.png](/Sovico-LAB/images/4/4.3/img.png)
+![img.png](/SovicoLab/images/4/4.3/2313.png)
 
-![img.png](/Sovico-LAB/images/4/4.3/img_1.png)
+![img.png](/SovicoLab/images/4/4.3/2314.png)
 
-![img.png](/Sovico-LAB/images/4/4.3/img_2.png)
-
-![img.png](/Sovico-LAB/images/4/4.3/img_3.png)
+![img.png](/SovicoLab/images/4/4.3/2315.png)
 
 

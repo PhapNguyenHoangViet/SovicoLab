@@ -5,7 +5,7 @@ weight : 8
 chapter : false
 pre : " <b> 2.8 </b> "
 ---
-![img.png](/SovicoLab/images/2/2.8/TestConnectivity1.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity.png)
 
 ![img.png](/SovicoLab/images/2/2.8/TestConnectivity2.png)
 
