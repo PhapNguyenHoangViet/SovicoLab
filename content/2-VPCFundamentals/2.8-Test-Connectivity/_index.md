@@ -5,18 +5,23 @@ weight : 8
 chapter : false
 pre : " <b> 2.8 </b> "
 ---
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity1.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_1.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity2.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_2.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity3.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_3.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity4.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_4.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity5.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_5.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity6.png)
 
-![img.png](/Sovico-LAB/images/2.fundamentals/2.8/img_6.png)
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity7.png)
 
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity8.png)
+
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity9.png)
+
+![img.png](/SovicoLab/images/2/2.8/TestConnectivity10.png)
 

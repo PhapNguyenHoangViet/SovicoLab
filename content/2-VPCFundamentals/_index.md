@@ -10,12 +10,12 @@ Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolate
 In this lab, you will learn how to set up a VPC with public and private subnets, connect it to the internet and establish private connections to AWS services.
 
 ### Content
-  - [Amazon VPC](2.1.1-createvpc/)
-  - [Subnets](2.1.2-createpublicsubnet/)
-  - [Network ACLs](2.1.3-createprivatesubnet/)
-  - [Route Tables](2.1.4-createsecgroup/)
-  - [Internet Connectivity](2.1.5-createec2linux/)
-  - [VPC Endpoints](2.1.6-createec2windows/)
-  - [EC2 instances](2.1.6-createec2windows/)
-  - [Test Connectivity](2.1.6-createec2windows/)
+  - [Amazon VPC](2.1-Amazon-VPC/)
+  - [Subnets](2.2-Subnets/)
+  - [Network ACLs](2.3-Network-ACLs/)
+  - [Route Tables](2.4-Route-Tables/)
+  - [Internet Connectivity](2.5-Internet-Connectivity/)
+  - [VPC Endpoints](2.6-VPC-Endpoints/)
+  - [EC2 instances](2.7-EC2-instances/)
+  - [Test Connectivity](2.8-Test-Connectivity/)
 
